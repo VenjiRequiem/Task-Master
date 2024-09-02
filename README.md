@@ -7,4 +7,3 @@ Welcome to Task Master, the straightforward to-do app designed to help you effor
 - Check and Uncheck Tasks: Mark tasks as complete or incomplete with a single click, helping you keep track of your progress.
 - Local Storage with Hive: Enjoy quick and reliable performance with Hive, a modern local database that securely stores your data on your device.
 
-![taskmaster](https://github.com/SajalJ23/Task-Master/assets/111180197/a8441fc0-2a5d-4909-a0e7-7dc256de0568)
